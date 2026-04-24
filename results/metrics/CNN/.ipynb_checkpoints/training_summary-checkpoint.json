@@ -1,0 +1,18 @@
+{
+    "model_name": "CNN",
+    "last_epoch": 28,
+    "best_metrics": {
+        "best_train_accuracy": 0.9334135385033328,
+        "best_test_accuracy": 0.9365091685262443,
+        "best_train_f1": 0.9476522455455211,
+        "best_test_f1": 0.9499135384944986,
+        "best_train_loss": 0.13597715387739026,
+        "best_test_loss": 0.13193385303020477,
+        "final_learning_rate": 0.0006544833676426274
+    },
+    "training_history": {
+        "start_time": "2024-12-30T10:54:23.126812",
+        "end_time": "2024-12-30T11:25:14.340218",
+        "total_epochs": 29
+    }
+}
