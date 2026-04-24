@@ -139,7 +139,6 @@ Analyse results after a simulation run:
 
 ```
 python analysis/adapt_visual.py
-python analysis/log_analyze.py
 ```
 
 ---
