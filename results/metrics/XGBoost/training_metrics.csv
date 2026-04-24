@@ -1,0 +1,2 @@
+epoch,timestamp,accuracy,f1_score,train_accuracy,test_accuracy,train_f1,test_f1,train_loss,test_loss,learning_rate
+0,2024-12-29T18:16:22.182645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
