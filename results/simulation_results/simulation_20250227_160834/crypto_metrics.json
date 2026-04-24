@@ -1,0 +1,35 @@
+{
+    "encryption": {
+        "average_time": 0.0,
+        "std_time": 0.0,
+        "success_rate": 0.0,
+        "failure_rate": 0.0,
+        "auth_failure_rate": 0.0,
+        "average_overhead": 0.0,
+        "average_memory": 0.0,
+        "peak_memory": 0,
+        "total_operations": 0,
+        "total_bytes_processed": 0
+    },
+    "decryption": {
+        "average_time": 0.0,
+        "std_time": 0.0,
+        "success_rate": 0.0,
+        "failure_rate": 0.0,
+        "auth_failure_rate": 0.0,
+        "average_overhead": 0.0,
+        "average_memory": 0.0,
+        "peak_memory": 0,
+        "total_operations": 0,
+        "total_bytes_processed": 0
+    },
+    "key_operations": {
+        "average_time": 0.0033856830559670925
+    },
+    "component_sizes": {
+        "public_key": 65,
+        "nonce": 12,
+        "tag": 16,
+        "salt": 32
+    }
+}
