@@ -1,0 +1,35 @@
+{
+    "encryption": {
+        "average_time": 0.002608334021642804,
+        "std_time": 0.00022611369689982963,
+        "success_rate": 1.0,
+        "failure_rate": 0.0,
+        "auth_failure_rate": 0.0,
+        "average_overhead": 125.0,
+        "average_memory": 3518.554,
+        "peak_memory": 3587,
+        "total_operations": 108306,
+        "total_bytes_processed": 370587292
+    },
+    "decryption": {
+        "average_time": 0.0015008364922832697,
+        "std_time": 0.00019764050126724796,
+        "success_rate": 1.0,
+        "failure_rate": 0.0,
+        "auth_failure_rate": 0.0,
+        "average_overhead": 0.0,
+        "average_memory": 6444.28,
+        "peak_memory": 9312,
+        "total_operations": 3586,
+        "total_bytes_processed": 12255453
+    },
+    "key_operations": {
+        "average_time": 0.00010112625827607595
+    },
+    "component_sizes": {
+        "public_key": 65,
+        "nonce": 12,
+        "tag": 16,
+        "salt": 32
+    }
+}
