@@ -1,0 +1,511 @@
+2025-03-01 19:35:30,338 [PID-591381] All simulation files for this run in: sim_591381_20250301_193530
+2025-03-01 19:35:30,338 [PID-591381] Simulation directory created at: /home/seyitope/recent_ids_modell/results/simulation_results/simulation_20250301_193530
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ct_src_dport_ltm
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ct_dst_sport_ltm
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ct_dst_src_ltm
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ct_flw_http_mthd
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ct_src_ltm
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ct_srv_dst
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: tcp
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: udp
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: arp
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ospf
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: icmp
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: igmp
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: rtp
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ddp
+2025-03-01 19:35:30,338 [PID-591381] Undefined feature in config: ipv6-frag
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: cftp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: wsn
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: pvp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: wb-expak
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: mtp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: pri-enc
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: sat-mon
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: cphb
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: sun-nd
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: iso-ip
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: xtp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: il
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: unas
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: mfe-nsp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: 3pc
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: ipv6-route
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: idrp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: bna
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: swipe
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: kryptolan
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: cpnx
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: rsvp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: wb-mon
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: vmtp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: ib
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: dgp
+2025-03-01 19:35:30,339 [PID-591381] Undefined feature in config: eigrp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: ax.25
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: gmtp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: pnni
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: sep
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: pgm
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: idpr-cmtp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: zero
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: rvd
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: mobile
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: narp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: fc
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: pipe
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: ipcomp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: ipv6-no
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: sat-expak
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: ipv6-opts
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: snp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: ipcv
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: br-sat-mon
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: ttp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: tcf
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: nsfnet-igp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: sprite-rpc
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: aes-sp3-d
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: sccopmce
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: sctp
+2025-03-01 19:35:30,340 [PID-591381] Undefined feature in config: qnx
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: scps
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: etherip
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: aris
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: pim
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: compaq-peer
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: vrrp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: iatp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: stp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: l2tp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: srp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: sm
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: isis
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: smp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: fire
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: ptp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: crtp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: sps
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: merit-inp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: idpr
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: skip
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: any
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: larp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: ipip
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: micp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: encap
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: ifmp
+2025-03-01 19:35:30,341 [PID-591381] Undefined feature in config: tp++
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: a/n
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: ipv6
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: i-nlsp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: ipx-n-ip
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: sdrp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: tlsp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: gre
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: mhrp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: ddx
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: ippc
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: visa
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: secure-vmtp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: uti
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: vines
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: crudp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: iplt
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: ggp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: ip
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: ipnip
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: st2
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: argus
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: bbn-rcc
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: egp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: emcon
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: igp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: nvp
+2025-03-01 19:35:30,342 [PID-591381] Undefined feature in config: pup
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: xnet
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: chaos
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: mux
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: dcn
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: hmp
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: prm
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: trunk-1
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: xns-idp
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: leaf-1
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: leaf-2
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: rdp
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: irtp
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: iso-tp4
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: netblt
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: trunk-2
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: cbt
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: -
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: ftp
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: smtp
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: snmp
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: http
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: ftp-data
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: dns
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: ssh
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: radius
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: pop3
+2025-03-01 19:35:30,343 [PID-591381] Undefined feature in config: dhcp
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: ssl
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: irc
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: FIN
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: INT
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: CON
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: ECO
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: REQ
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: RST
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: PAR
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: URN
+2025-03-01 19:35:30,344 [PID-591381] Undefined feature in config: no
+2025-03-01 19:35:30,347 [PID-591381] CryptoManager initialized. Public key size: 65 bytes
+2025-03-01 19:35:30,347 [PID-591381] Initializing IDSMonitor with Adaptive Ensemble
+2025-03-01 19:35:30,347 [PID-591381] Loading cnn model from /home/seyitope/recent_ids_modell/results/models/cnn_model.pth
+2025-03-01 19:35:30,358 [PID-591381] Successfully loaded CNN model
+2025-03-01 19:35:30,358 [PID-591381] Loading lstm model from /home/seyitope/recent_ids_modell/results/models/lstm_model.pth
+2025-03-01 19:35:30,484 [PID-591381] Successfully loaded LSTM model
+2025-03-01 19:35:30,484 [PID-591381] Loading dnn model from /home/seyitope/recent_ids_modell/results/models/dnn_model.pth
+2025-03-01 19:35:30,495 [PID-591381] Successfully loaded DNN model
+2025-03-01 19:35:30,496 [PID-591381] Successfully loaded SVM model
+2025-03-01 19:35:30,659 [PID-591381] Successfully loaded XGBOOST model
+2025-03-01 19:35:30,932 [PID-591381] Successfully loaded RANDOMFOREST model
+2025-03-01 19:35:30,932 [PID-591381] Loaded ensemble of 6 models successfully
+2025-03-01 19:35:30,932 [PID-591381] Adaptive ensemble initialized with base weights
+2025-03-01 19:35:30,932 [PID-591381] Will start adapting after 100 labeled samples
+2025-03-01 19:35:30,932 [PID-591381] Registered 6 models with the ensemble
+2025-03-01 19:35:30,934 [PID-591381] Network simulation started
+2025-03-01 19:35:30,934 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:30,934 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:30,934 [PID-591381] Simulation progress: 0.0%
+2025-03-01 19:35:31,034 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,034 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,134 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,134 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,234 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,234 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,335 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,335 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,435 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,435 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,535 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,535 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,636 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,636 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,736 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,736 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,836 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,837 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:31,937 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:31,937 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,037 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,037 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,138 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,138 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,238 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,238 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,338 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,338 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,439 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,439 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,539 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,539 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,639 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,639 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,740 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,740 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,840 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,840 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:32,940 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:32,941 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,041 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,041 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,141 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,141 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,242 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,242 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,342 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,342 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,442 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,442 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,543 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,543 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,643 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,643 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,744 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,745 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,845 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,845 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:33,945 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:33,945 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,046 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,046 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,146 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,146 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,246 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,246 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,347 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,347 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,447 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,447 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,547 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,547 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,648 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,648 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,748 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,748 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,848 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,848 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:34,949 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:34,949 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,049 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,049 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,149 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,149 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,250 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,250 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,351 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,351 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,451 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,451 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,552 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,552 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,652 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,652 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,752 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,752 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,853 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,853 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:35,953 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:35,953 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,053 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,053 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,154 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,154 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,254 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,254 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,354 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,355 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,455 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,455 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,555 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,555 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,655 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,656 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,756 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,756 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,856 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,856 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:36,957 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:36,957 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,057 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,057 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,157 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,157 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,258 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,258 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,358 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,358 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,458 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,458 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,559 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,559 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,659 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,659 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,759 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,760 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,860 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,860 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:37,960 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:37,960 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,061 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,061 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,161 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,161 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,261 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,261 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,362 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,362 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,462 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,462 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,562 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,562 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,663 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,663 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,764 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,764 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,864 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,864 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:38,964 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:38,965 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,065 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,065 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,165 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,165 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,265 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,266 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,366 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,366 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,466 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,467 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,567 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,567 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,667 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,667 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,768 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,768 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,868 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,868 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:39,968 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:39,968 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,069 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,069 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,169 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,169 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,269 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,269 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,370 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,370 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,470 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,470 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,570 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,571 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,671 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,671 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,771 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,771 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,872 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,872 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:40,972 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:40,972 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,072 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,072 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,173 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,173 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,273 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,273 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,373 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,373 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,474 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,474 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,574 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,574 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,674 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,674 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,775 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,775 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,875 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,875 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:41,975 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:41,976 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,076 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,076 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,176 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,176 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,277 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,277 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,377 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,377 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,477 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,477 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,578 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,578 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,678 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,678 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,778 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,778 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,879 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,879 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:42,979 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:42,979 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,079 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,080 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,180 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,180 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,280 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,280 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,380 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,381 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,482 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,482 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,582 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,582 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,682 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,682 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,783 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,783 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,883 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,883 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:43,983 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:43,983 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,084 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,084 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,184 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,184 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,284 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,285 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,385 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,385 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,485 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,485 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,585 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,586 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,686 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,686 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,786 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,786 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,887 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,887 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:44,987 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:44,987 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,087 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,087 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,188 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,188 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,288 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,288 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,388 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,388 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,489 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,489 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,589 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,589 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,689 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,690 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,790 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,790 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,890 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,890 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:45,990 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:45,991 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,091 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,091 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,191 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,191 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,292 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,292 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,392 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,392 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,492 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,492 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,593 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,593 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,693 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,693 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,793 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,793 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,894 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,894 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:46,994 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:46,994 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:47,094 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:47,095 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:47,195 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:47,195 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:47,295 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:47,295 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:47,396 [PID-591381] Encryption failed: Input must be a dictionary
+2025-03-01 19:35:47,396 [PID-591381] Error processing traffic: Input must be a dictionary
+2025-03-01 19:35:47,429 [PID-591381] Network simulation stopped
