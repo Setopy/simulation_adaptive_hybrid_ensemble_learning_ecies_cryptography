@@ -1,0 +1,18 @@
+{
+    "model_name": "XGBoost",
+    "last_epoch": 0,
+    "best_metrics": {
+        "best_train_accuracy": 0.0,
+        "best_test_accuracy": 0.0,
+        "best_train_f1": 0.0,
+        "best_test_f1": 0.0,
+        "best_train_loss": 0.0,
+        "best_test_loss": 0.0,
+        "final_learning_rate": 0.0
+    },
+    "training_history": {
+        "start_time": "2024-12-29T18:16:22.182645",
+        "end_time": "2024-12-29T18:16:22.182645",
+        "total_epochs": 1
+    }
+}
