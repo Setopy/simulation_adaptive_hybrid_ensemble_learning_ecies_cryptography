@@ -1,0 +1,62 @@
+2024-12-29 15:15:56,169 - INFO - Using GPU: NVIDIA GeForce RTX 3080
+2024-12-29 15:15:56,169 - INFO - Loading and preprocessing data...
+2024-12-29 15:15:56,169 - INFO - Loading training data from /home/seyitope/recent_ids_model/data/UNSW_NB15_training-set.csv
+2024-12-29 15:15:56,169 - INFO - Loading testing data from /home/seyitope/recent_ids_model/data/UNSW_NB15_testing-set.csv
+2024-12-29 15:15:58,995 - INFO - Data preprocessing completed. Training set shape: (206138, 196)
+2024-12-29 15:15:58,999 - INFO - Data loaded successfully. Training set shape: (206138, 196)
+2024-12-29 15:15:59,000 - INFO - 
+Starting neural model training...
+2024-12-29 15:15:59,025 - INFO - 
+Training CNN...
+2024-12-29 15:15:59,025 - INFO - Training CNN...
+2024-12-29 15:16:00,809 - ERROR - Error training CNN: torch.nn.functional.binary_cross_entropy and torch.nn.BCELoss are unsafe to autocast.
+Many models use a sigmoid layer right before the binary cross entropy layer.
+In this case, combine the two layers using torch.nn.functional.binary_cross_entropy_with_logits
+or torch.nn.BCEWithLogitsLoss.  binary_cross_entropy_with_logits and BCEWithLogits are
+safe to autocast.
+2024-12-29 15:16:00,810 - ERROR - Error training CNN: torch.nn.functional.binary_cross_entropy and torch.nn.BCELoss are unsafe to autocast.
+Many models use a sigmoid layer right before the binary cross entropy layer.
+In this case, combine the two layers using torch.nn.functional.binary_cross_entropy_with_logits
+or torch.nn.BCEWithLogitsLoss.  binary_cross_entropy_with_logits and BCEWithLogits are
+safe to autocast.
+2024-12-29 15:16:00,812 - INFO - 
+Training LSTM...
+2024-12-29 15:16:00,812 - INFO - Training LSTM...
+2024-12-29 15:16:00,931 - ERROR - Error training LSTM: torch.nn.functional.binary_cross_entropy and torch.nn.BCELoss are unsafe to autocast.
+Many models use a sigmoid layer right before the binary cross entropy layer.
+In this case, combine the two layers using torch.nn.functional.binary_cross_entropy_with_logits
+or torch.nn.BCEWithLogitsLoss.  binary_cross_entropy_with_logits and BCEWithLogits are
+safe to autocast.
+2024-12-29 15:16:00,931 - ERROR - Error training LSTM: torch.nn.functional.binary_cross_entropy and torch.nn.BCELoss are unsafe to autocast.
+Many models use a sigmoid layer right before the binary cross entropy layer.
+In this case, combine the two layers using torch.nn.functional.binary_cross_entropy_with_logits
+or torch.nn.BCEWithLogitsLoss.  binary_cross_entropy_with_logits and BCEWithLogits are
+safe to autocast.
+2024-12-29 15:16:00,953 - INFO - 
+Training DNN...
+2024-12-29 15:16:00,954 - INFO - Training DNN...
+2024-12-29 15:16:01,000 - ERROR - Error training DNN: torch.nn.functional.binary_cross_entropy and torch.nn.BCELoss are unsafe to autocast.
+Many models use a sigmoid layer right before the binary cross entropy layer.
+In this case, combine the two layers using torch.nn.functional.binary_cross_entropy_with_logits
+or torch.nn.BCEWithLogitsLoss.  binary_cross_entropy_with_logits and BCEWithLogits are
+safe to autocast.
+2024-12-29 15:16:01,000 - ERROR - Error training DNN: torch.nn.functional.binary_cross_entropy and torch.nn.BCELoss are unsafe to autocast.
+Many models use a sigmoid layer right before the binary cross entropy layer.
+In this case, combine the two layers using torch.nn.functional.binary_cross_entropy_with_logits
+or torch.nn.BCEWithLogitsLoss.  binary_cross_entropy_with_logits and BCEWithLogits are
+safe to autocast.
+2024-12-29 15:16:01,012 - INFO - 
+Starting traditional model training...
+2024-12-29 15:16:01,012 - INFO - 
+Training XGBoost...
+2024-12-29 15:16:01,012 - INFO - Training XGBoost...
+2024-12-29 15:16:03,519 - ERROR - Error training XGBoost: 'loss'
+2024-12-29 15:16:03,519 - ERROR - Error training XGBoost: 'loss'
+2024-12-29 15:16:03,519 - INFO - 
+Training RandomForest...
+2024-12-29 15:16:03,520 - INFO - Training RandomForest...
+2024-12-29 15:16:03,520 - ERROR - Error training RandomForest: fit() got an unexpected keyword argument 'eval_set'
+2024-12-29 15:16:03,520 - ERROR - Error training RandomForest: fit() got an unexpected keyword argument 'eval_set'
+2024-12-29 15:16:03,520 - INFO - 
+Training SVM...
+2024-12-29 15:16:03,520 - INFO - Training SVM...
