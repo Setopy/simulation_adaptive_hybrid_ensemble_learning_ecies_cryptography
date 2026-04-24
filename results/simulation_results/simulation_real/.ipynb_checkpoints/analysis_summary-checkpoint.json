@@ -1,0 +1,9 @@
+{
+    "total_packets": 5508,
+    "total_alerts": 428,
+    "alert_rate": 7.770515613652869,
+    "avg_detection_probability": 0.5893246111049318,
+    "total_traffic_volume": 68536366,
+    "intrusion_packets": 267,
+    "normal_packets": 5241
+}
