@@ -1,0 +1,240 @@
+2024-12-30 18:46:03,888 - INFO - Cryptographic keys generated successfully
+2024-12-30 18:46:03,888 - INFO - Loading cnn model from /home/seyitope/recent_ids_model/results/models/cnn_model.pth
+2024-12-30 18:46:03,891 - ERROR - Error loading cnn model: list index out of range
+2024-12-30 18:46:03,891 - INFO - Loading lstm model from /home/seyitope/recent_ids_model/results/models/lstm_model.pth
+2024-12-30 18:46:03,898 - ERROR - Error loading lstm model: list index out of range
+2024-12-30 18:46:03,898 - INFO - Loading dnn model from /home/seyitope/recent_ids_model/results/models/dnn_model.pth
+2024-12-30 18:46:03,901 - ERROR - Error loading dnn model: list index out of range
+2024-12-30 18:46:04,337 - INFO - Successfully loaded SVM model
+2024-12-30 18:46:04,337 - INFO - Loaded ensemble of 1 models successfully
+2024-12-30 18:46:04,339 - INFO - Network simulation started
+2024-12-30 18:46:04,340 - INFO - Traffic encrypted
+2024-12-30 18:46:04,362 - INFO - Simulation progress: 0.0%
+2024-12-30 18:46:04,463 - INFO - Traffic encrypted
+2024-12-30 18:46:04,463 - INFO - Simulation progress: 0.0%
+2024-12-30 18:46:04,564 - INFO - Traffic encrypted
+2024-12-30 18:46:04,565 - INFO - Simulation progress: 0.0%
+2024-12-30 18:46:04,666 - INFO - Traffic encrypted
+2024-12-30 18:46:04,666 - INFO - Simulation progress: 0.1%
+2024-12-30 18:46:04,767 - INFO - Traffic encrypted
+2024-12-30 18:46:04,767 - INFO - Simulation progress: 0.1%
+2024-12-30 18:46:04,869 - INFO - Traffic encrypted
+2024-12-30 18:46:04,869 - INFO - Simulation progress: 0.1%
+2024-12-30 18:46:04,970 - INFO - Traffic encrypted
+2024-12-30 18:46:04,970 - INFO - Simulation progress: 0.1%
+2024-12-30 18:46:05,072 - INFO - Traffic encrypted
+2024-12-30 18:46:05,073 - INFO - Simulation progress: 0.1%
+2024-12-30 18:46:05,175 - INFO - Traffic encrypted
+2024-12-30 18:46:05,176 - INFO - Simulation progress: 0.1%
+2024-12-30 18:46:05,278 - INFO - Traffic encrypted
+2024-12-30 18:46:05,278 - INFO - Simulation progress: 0.2%
+2024-12-30 18:46:05,380 - INFO - Traffic encrypted
+2024-12-30 18:46:05,482 - INFO - Traffic encrypted
+2024-12-30 18:46:05,583 - INFO - Traffic encrypted
+2024-12-30 18:46:05,685 - INFO - Traffic encrypted
+2024-12-30 18:46:05,787 - INFO - Traffic encrypted
+2024-12-30 18:46:05,889 - INFO - Traffic encrypted
+2024-12-30 18:46:05,991 - INFO - Traffic encrypted
+2024-12-30 18:46:06,093 - INFO - Traffic encrypted
+2024-12-30 18:46:06,195 - INFO - Traffic encrypted
+2024-12-30 18:46:06,297 - INFO - Traffic encrypted
+2024-12-30 18:46:06,398 - INFO - Traffic encrypted
+2024-12-30 18:46:06,499 - INFO - Traffic encrypted
+2024-12-30 18:46:06,601 - INFO - Traffic encrypted
+2024-12-30 18:46:06,702 - INFO - Traffic encrypted
+2024-12-30 18:46:06,804 - INFO - Traffic encrypted
+2024-12-30 18:46:06,905 - INFO - Traffic encrypted
+2024-12-30 18:46:07,006 - INFO - Traffic encrypted
+2024-12-30 18:46:07,108 - INFO - Traffic encrypted
+2024-12-30 18:46:07,209 - INFO - Traffic encrypted
+2024-12-30 18:46:07,311 - INFO - Traffic encrypted
+2024-12-30 18:46:07,412 - INFO - Traffic encrypted
+2024-12-30 18:46:07,513 - INFO - Traffic encrypted
+2024-12-30 18:46:07,615 - INFO - Traffic encrypted
+2024-12-30 18:46:07,716 - INFO - Traffic encrypted
+2024-12-30 18:46:07,818 - INFO - Traffic encrypted
+2024-12-30 18:46:07,919 - INFO - Traffic encrypted
+2024-12-30 18:46:08,020 - INFO - Traffic encrypted
+2024-12-30 18:46:08,122 - INFO - Traffic encrypted
+2024-12-30 18:46:08,223 - INFO - Traffic encrypted
+2024-12-30 18:46:08,325 - INFO - Traffic encrypted
+2024-12-30 18:46:08,426 - INFO - Traffic encrypted
+2024-12-30 18:46:08,527 - INFO - Traffic encrypted
+2024-12-30 18:46:08,629 - INFO - Traffic encrypted
+2024-12-30 18:46:08,730 - INFO - Traffic encrypted
+2024-12-30 18:46:08,831 - INFO - Traffic encrypted
+2024-12-30 18:46:08,933 - INFO - Traffic encrypted
+2024-12-30 18:46:09,034 - INFO - Traffic encrypted
+2024-12-30 18:46:09,136 - INFO - Traffic encrypted
+2024-12-30 18:46:09,237 - INFO - Traffic encrypted
+2024-12-30 18:46:09,338 - INFO - Traffic encrypted
+2024-12-30 18:46:09,440 - INFO - Traffic encrypted
+2024-12-30 18:46:09,541 - INFO - Traffic encrypted
+2024-12-30 18:46:09,643 - INFO - Traffic encrypted
+2024-12-30 18:46:09,744 - INFO - Traffic encrypted
+2024-12-30 18:46:09,845 - INFO - Traffic encrypted
+2024-12-30 18:46:09,947 - INFO - Traffic encrypted
+2024-12-30 18:46:10,048 - INFO - Traffic encrypted
+2024-12-30 18:46:10,150 - INFO - Traffic encrypted
+2024-12-30 18:46:10,251 - INFO - Traffic encrypted
+2024-12-30 18:46:10,352 - INFO - Traffic encrypted
+2024-12-30 18:46:10,454 - INFO - Traffic encrypted
+2024-12-30 18:46:10,555 - INFO - Traffic encrypted
+2024-12-30 18:46:10,657 - INFO - Traffic encrypted
+2024-12-30 18:46:10,758 - INFO - Traffic encrypted
+2024-12-30 18:46:10,859 - INFO - Traffic encrypted
+2024-12-30 18:46:10,961 - INFO - Traffic encrypted
+2024-12-30 18:46:11,062 - INFO - Traffic encrypted
+2024-12-30 18:46:11,164 - INFO - Traffic encrypted
+2024-12-30 18:46:11,265 - INFO - Traffic encrypted
+2024-12-30 18:46:11,366 - INFO - Traffic encrypted
+2024-12-30 18:46:11,468 - INFO - Traffic encrypted
+2024-12-30 18:46:11,569 - INFO - Traffic encrypted
+2024-12-30 18:46:11,670 - INFO - Traffic encrypted
+2024-12-30 18:46:11,772 - INFO - Traffic encrypted
+2024-12-30 18:46:11,873 - INFO - Traffic encrypted
+2024-12-30 18:46:11,975 - INFO - Traffic encrypted
+2024-12-30 18:46:12,076 - INFO - Traffic encrypted
+2024-12-30 18:46:12,177 - INFO - Traffic encrypted
+2024-12-30 18:46:12,279 - INFO - Traffic encrypted
+2024-12-30 18:46:12,380 - INFO - Traffic encrypted
+2024-12-30 18:46:12,482 - INFO - Traffic encrypted
+2024-12-30 18:46:12,583 - INFO - Traffic encrypted
+2024-12-30 18:46:12,684 - INFO - Traffic encrypted
+2024-12-30 18:46:12,786 - INFO - Traffic encrypted
+2024-12-30 18:46:12,887 - INFO - Traffic encrypted
+2024-12-30 18:46:12,989 - INFO - Traffic encrypted
+2024-12-30 18:46:13,090 - INFO - Traffic encrypted
+2024-12-30 18:46:13,191 - INFO - Traffic encrypted
+2024-12-30 18:46:13,293 - INFO - Traffic encrypted
+2024-12-30 18:46:13,394 - INFO - Traffic encrypted
+2024-12-30 18:46:13,496 - INFO - Traffic encrypted
+2024-12-30 18:46:13,597 - INFO - Traffic encrypted
+2024-12-30 18:46:13,698 - INFO - Traffic encrypted
+2024-12-30 18:46:13,800 - INFO - Traffic encrypted
+2024-12-30 18:46:13,901 - INFO - Traffic encrypted
+2024-12-30 18:46:14,003 - INFO - Traffic encrypted
+2024-12-30 18:46:14,104 - INFO - Traffic encrypted
+2024-12-30 18:46:14,205 - INFO - Traffic encrypted
+2024-12-30 18:46:14,307 - INFO - Traffic encrypted
+2024-12-30 18:46:14,408 - INFO - Traffic encrypted
+2024-12-30 18:46:14,509 - INFO - Traffic encrypted
+2024-12-30 18:46:14,611 - INFO - Traffic encrypted
+2024-12-30 18:46:14,712 - INFO - Traffic encrypted
+2024-12-30 18:46:14,814 - INFO - Traffic encrypted
+2024-12-30 18:46:14,915 - INFO - Traffic encrypted
+2024-12-30 18:46:15,016 - INFO - Traffic encrypted
+2024-12-30 18:46:15,118 - INFO - Traffic encrypted
+2024-12-30 18:46:15,219 - INFO - Traffic encrypted
+2024-12-30 18:46:15,321 - INFO - Traffic encrypted
+2024-12-30 18:46:15,422 - INFO - Traffic encrypted
+2024-12-30 18:46:15,523 - INFO - Traffic encrypted
+2024-12-30 18:46:15,625 - INFO - Traffic encrypted
+2024-12-30 18:46:15,726 - INFO - Traffic encrypted
+2024-12-30 18:46:15,828 - INFO - Traffic encrypted
+2024-12-30 18:46:15,929 - INFO - Traffic encrypted
+2024-12-30 18:46:16,030 - INFO - Traffic encrypted
+2024-12-30 18:46:16,132 - INFO - Traffic encrypted
+2024-12-30 18:46:16,233 - INFO - Traffic encrypted
+2024-12-30 18:46:16,335 - INFO - Traffic encrypted
+2024-12-30 18:46:16,436 - INFO - Traffic encrypted
+2024-12-30 18:46:16,537 - INFO - Traffic encrypted
+2024-12-30 18:46:16,639 - INFO - Traffic encrypted
+2024-12-30 18:46:16,740 - INFO - Traffic encrypted
+2024-12-30 18:46:16,842 - INFO - Traffic encrypted
+2024-12-30 18:46:16,943 - INFO - Traffic encrypted
+2024-12-30 18:46:17,045 - INFO - Traffic encrypted
+2024-12-30 18:46:17,148 - INFO - Traffic encrypted
+2024-12-30 18:46:17,250 - INFO - Traffic encrypted
+2024-12-30 18:46:17,353 - INFO - Traffic encrypted
+2024-12-30 18:46:17,456 - INFO - Traffic encrypted
+2024-12-30 18:46:17,558 - INFO - Traffic encrypted
+2024-12-30 18:46:17,661 - INFO - Traffic encrypted
+2024-12-30 18:46:17,763 - INFO - Traffic encrypted
+2024-12-30 18:46:17,866 - INFO - Traffic encrypted
+2024-12-30 18:46:17,970 - INFO - Traffic encrypted
+2024-12-30 18:46:18,073 - INFO - Traffic encrypted
+2024-12-30 18:46:18,175 - INFO - Traffic encrypted
+2024-12-30 18:46:18,278 - INFO - Traffic encrypted
+2024-12-30 18:46:18,380 - INFO - Traffic encrypted
+2024-12-30 18:46:18,482 - INFO - Traffic encrypted
+2024-12-30 18:46:18,583 - INFO - Traffic encrypted
+2024-12-30 18:46:18,685 - INFO - Traffic encrypted
+2024-12-30 18:46:18,787 - INFO - Traffic encrypted
+2024-12-30 18:46:18,889 - INFO - Traffic encrypted
+2024-12-30 18:46:18,991 - INFO - Traffic encrypted
+2024-12-30 18:46:19,093 - INFO - Traffic encrypted
+2024-12-30 18:46:19,195 - INFO - Traffic encrypted
+2024-12-30 18:46:19,297 - INFO - Traffic encrypted
+2024-12-30 18:46:19,398 - INFO - Traffic encrypted
+2024-12-30 18:46:19,500 - INFO - Traffic encrypted
+2024-12-30 18:46:19,601 - INFO - Traffic encrypted
+2024-12-30 18:46:19,702 - INFO - Traffic encrypted
+2024-12-30 18:46:19,804 - INFO - Traffic encrypted
+2024-12-30 18:46:19,905 - INFO - Traffic encrypted
+2024-12-30 18:46:20,007 - INFO - Traffic encrypted
+2024-12-30 18:46:20,108 - INFO - Traffic encrypted
+2024-12-30 18:46:20,209 - INFO - Traffic encrypted
+2024-12-30 18:46:20,311 - INFO - Traffic encrypted
+2024-12-30 18:46:20,412 - INFO - Traffic encrypted
+2024-12-30 18:46:20,514 - INFO - Traffic encrypted
+2024-12-30 18:46:20,615 - INFO - Traffic encrypted
+2024-12-30 18:46:20,716 - INFO - Traffic encrypted
+2024-12-30 18:46:20,818 - INFO - Traffic encrypted
+2024-12-30 18:46:20,919 - INFO - Traffic encrypted
+2024-12-30 18:46:21,021 - INFO - Traffic encrypted
+2024-12-30 18:46:21,122 - INFO - Traffic encrypted
+2024-12-30 18:46:21,223 - INFO - Traffic encrypted
+2024-12-30 18:46:21,325 - INFO - Traffic encrypted
+2024-12-30 18:46:21,426 - INFO - Traffic encrypted
+2024-12-30 18:46:21,528 - INFO - Traffic encrypted
+2024-12-30 18:46:21,629 - INFO - Traffic encrypted
+2024-12-30 18:46:21,730 - INFO - Traffic encrypted
+2024-12-30 18:46:21,832 - INFO - Traffic encrypted
+2024-12-30 18:46:21,933 - INFO - Traffic encrypted
+2024-12-30 18:46:22,035 - INFO - Traffic encrypted
+2024-12-30 18:46:22,136 - INFO - Traffic encrypted
+2024-12-30 18:46:22,237 - INFO - Traffic encrypted
+2024-12-30 18:46:22,339 - INFO - Traffic encrypted
+2024-12-30 18:46:22,440 - INFO - Traffic encrypted
+2024-12-30 18:46:22,542 - INFO - Traffic encrypted
+2024-12-30 18:46:22,643 - INFO - Traffic encrypted
+2024-12-30 18:46:22,744 - INFO - Traffic encrypted
+2024-12-30 18:46:22,846 - INFO - Traffic encrypted
+2024-12-30 18:46:22,947 - INFO - Traffic encrypted
+2024-12-30 18:46:23,049 - INFO - Traffic encrypted
+2024-12-30 18:46:23,150 - INFO - Traffic encrypted
+2024-12-30 18:46:23,251 - INFO - Traffic encrypted
+2024-12-30 18:46:23,353 - INFO - Traffic encrypted
+2024-12-30 18:46:23,454 - INFO - Traffic encrypted
+2024-12-30 18:46:23,556 - INFO - Traffic encrypted
+2024-12-30 18:46:23,657 - INFO - Traffic encrypted
+2024-12-30 18:46:23,758 - INFO - Traffic encrypted
+2024-12-30 18:46:23,860 - INFO - Traffic encrypted
+2024-12-30 18:46:23,961 - INFO - Traffic encrypted
+2024-12-30 18:46:24,063 - INFO - Traffic encrypted
+2024-12-30 18:46:24,164 - INFO - Traffic encrypted
+2024-12-30 18:46:24,265 - INFO - Traffic encrypted
+2024-12-30 18:46:24,367 - INFO - Traffic encrypted
+2024-12-30 18:46:24,468 - INFO - Traffic encrypted
+2024-12-30 18:46:24,570 - INFO - Traffic encrypted
+2024-12-30 18:46:24,671 - INFO - Traffic encrypted
+2024-12-30 18:46:24,772 - INFO - Traffic encrypted
+2024-12-30 18:46:24,874 - INFO - Traffic encrypted
+2024-12-30 18:46:24,975 - INFO - Traffic encrypted
+2024-12-30 18:46:25,077 - INFO - Traffic encrypted
+2024-12-30 18:46:25,178 - INFO - Traffic encrypted
+2024-12-30 18:46:25,279 - INFO - Traffic encrypted
+2024-12-30 18:46:25,381 - INFO - Traffic encrypted
+2024-12-30 18:46:25,482 - INFO - Traffic encrypted
+2024-12-30 18:46:25,584 - INFO - Traffic encrypted
+2024-12-30 18:46:25,685 - INFO - Traffic encrypted
+2024-12-30 18:46:25,787 - INFO - Traffic encrypted
+2024-12-30 18:46:25,793 - INFO - Simulation interrupted by user
+2024-12-30 18:46:25,793 - INFO - Network simulation stopped
+2024-12-30 18:46:25,825 - INFO - Traffic data saved to /home/seyitope/recent_ids_model/results/simulation_results/simulation_20241230_184625/traffic_data.csv
+2024-12-30 18:46:25,825 - INFO - 
+Simulation completed:
+2024-12-30 18:46:25,825 - INFO - Total traffic packets collected: 212
+2024-12-30 18:46:25,826 - INFO - Total alerts generated: 0
+2024-12-30 18:46:25,826 - INFO - Results saved in: /home/seyitope/recent_ids_model/results/simulation_results/simulation_20241230_184625
