@@ -1,0 +1,18 @@
+{
+    "model_name": "LSTM",
+    "last_epoch": 30,
+    "best_metrics": {
+        "best_train_accuracy": 0.9361010585141992,
+        "best_test_accuracy": 0.93850781022606,
+        "best_train_f1": 0.9498002987895973,
+        "best_test_f1": 0.9515676467000121,
+        "best_train_loss": 0.12812880864332193,
+        "best_test_loss": 0.12388479709625244,
+        "final_learning_rate": 0.0005670907410191133
+    },
+    "training_history": {
+        "start_time": "2024-12-30T11:26:25.409932",
+        "end_time": "2024-12-30T12:01:55.964580",
+        "total_epochs": 31
+    }
+}
