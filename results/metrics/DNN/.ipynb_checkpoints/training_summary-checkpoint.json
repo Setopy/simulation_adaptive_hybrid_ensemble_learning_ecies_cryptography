@@ -1,0 +1,18 @@
+{
+    "model_name": "DNN",
+    "last_epoch": 36,
+    "best_metrics": {
+        "best_train_accuracy": 0.9338452881079665,
+        "best_test_accuracy": 0.9365867856796352,
+        "best_train_f1": 0.9480120925161354,
+        "best_test_f1": 0.9504517413535649,
+        "best_train_loss": 0.13292122445321095,
+        "best_test_loss": 0.13305912911891937,
+        "final_learning_rate": 0.00030346463814040665
+    },
+    "training_history": {
+        "start_time": "2024-12-30T12:02:38.316444",
+        "end_time": "2024-12-30T12:27:37.151662",
+        "total_epochs": 37
+    }
+}
